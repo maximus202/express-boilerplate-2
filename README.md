@@ -1,6 +1,6 @@
 # Express Boilerplate!
 
-This is a boilerplate project used for starting new projects!
+UPDATED 2.0 Version: This is a boilerplate project used for starting new projects! This 2.0 version does not include the testing boilerplate and improved code readiness.
 
 ## Set up
 
